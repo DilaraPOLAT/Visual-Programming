@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/islem">
+        <file>process_images/Carpma.png</file>
+        <file>process_images/Toplama (1).png</file>
+        <file>process_images/Cikarma.png</file>
+        <file>process_images/Bolme.png</file>
+    </qresource>
+</RCC>
