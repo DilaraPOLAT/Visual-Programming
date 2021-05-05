@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/Resimler">
+        <file>images/copy.png</file>
+        <file>images/cut.png</file>
+        <file>images/new.png</file>
+        <file>images/open.png</file>
+        <file>images/paste.png</file>
+        <file>images/save.png</file>
+        <file>images/saveas.png</file>
+        <file>images/selectall.png</file>
+        <file>images/selectnone.png</file>
+    </qresource>
+    <qresource prefix="/Process">
+        <file>process_images/Bolme.png</file>
+        <file>process_images/Carpma.png</file>
+        <file>process_images/Cikarma.png</file>
+        <file>process_images/Toplama.png</file>
+    </qresource>
+</RCC>
