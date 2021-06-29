@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/arkaplan">
+        <file>images/arkaplan.jpg</file>
+    </qresource>
+    <qresource prefix="/patlatma">
+        <file>images/patlama.jpg</file>
+    </qresource>
+</RCC>
